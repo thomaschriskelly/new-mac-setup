@@ -7,3 +7,4 @@ new mac setup instructions
 4. install git
 5. enable key repeat using `defaults write -g ApplePressAndHoldEnabled -bool false`
 6. set keyboard delay until repeat to short
+7. set caps lock to escape using `customize modifer keys` setting

@@ -1,5 +1,4 @@
-# new-mac-setup
-new mac setup instructions
+# new mac setup instructions
 
 1. install chrome and firefox
 2. install ublock

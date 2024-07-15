@@ -6,6 +6,7 @@
 4. install git
 5. set up ssh keys on github
 6. install homebrew
-7. enable key repeat using `defaults write -g ApplePressAndHoldEnabled -bool false`
-8. set keyboard delay until repeat to short
-9. set caps lock to escape using `customize modifer keys` setting
+7. brew install nvm and pyenv
+8. enable key repeat using `defaults write -g ApplePressAndHoldEnabled -bool false`
+9. set keyboard delay until repeat to short
+10. set caps lock to escape using `customize modifer keys` setting

@@ -2,7 +2,7 @@
 
 1. install chrome and firefox
 2. install ublock
-3. install vscode + code shortcut + vim extension
+3. install vscode + code shortcut + vim extension + gitlens extension
 4. install git
 5. set up ssh keys on github
 6. install homebrew
